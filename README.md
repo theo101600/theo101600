@@ -15,7 +15,6 @@
 
 ```javascript
 const theo = {
-    pronouns: "he/him",
     location: "Philippines 🇵🇭",
     currentFocus: "Full Stack Development",
     currentlyLearning: [
@@ -23,8 +22,7 @@ const theo = {
         "Next.js & Advanced React Patterns",
         "Redux & State Management"
     ],
-    askMeAbout: ["React", "JavaScript", "Web Development", "UI/UX Design"],
-    funFact: "I debug with console.log and I'm not ashamed! 🐛"
+
 };
 ```
 
