@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Theo Lacanaria
+#  Hello! I'm Theo Lacanaria
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+in+Training;React+%7C+Next.js+%7C+Node.js;Always+learning%2C+always+building!" alt="Typing SVG" />
@@ -11,10 +11,11 @@
 
 ---
 
-## About Me
+##  About Me
 
 ```javascript
 const theo = {
+    pronouns: "he/him",
     location: "Philippines 🇵🇭",
     currentFocus: "Full Stack Development",
     currentlyLearning: [
@@ -22,18 +23,20 @@ const theo = {
         "Next.js & Advanced React Patterns",
         "Redux & State Management"
     ],
-
+    askMeAbout: ["React", "JavaScript", "Web Development", "UI/UX Design"],
+    funFact: "I debug with console.log and I'm not ashamed! 🐛"
 };
 ```
 
-## Current Goals
+##  Current Goals
 
 -  **Learning**: The Ultimate React Course 2025: React, Next.js, Redux & More
 -  **Working on**: Building modern, responsive web applications
 -  **Looking to collaborate**: Open source projects and innovative web solutions
+-  **Ask me about**: React, JavaScript, Frontend Development, or anything tech!
+-  **Fun fact**: Started with Arduino, now conquering the web! 🤖➡️🌐
 
-
-## Tech Stack & Tools
+##  Tech Stack & Tools
 
 <div align="center">
 
@@ -48,11 +51,13 @@ const theo = {
 ### Styling & Frameworks
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Design & Tools
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
