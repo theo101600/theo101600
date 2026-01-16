@@ -1,7 +1,7 @@
 #  Hello! I'm Theo Lacanaria
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+in+Training;React+%7C+Next.js+%7C+Node.js;Always+learning%2C+always+building!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Always+learning%2C+always+building!" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -28,11 +28,9 @@ const theo = {
 
 ##  Current Goals
 
--  **Learning**: The Ultimate React Course 2025: React, Next.js, Redux & More
+-  **Learning**: Docker Mastery: with Kubernetes +Swarm from a Docker Captain
 -  **Working on**: Building modern, responsive web applications
--  **Looking to collaborate**: Open source projects and innovative web solutions
--  **Ask me about**: React, JavaScript, Frontend Development, or anything tech!
--  **Fun fact**: Started with Arduino, now conquering the web! 🤖➡️🌐
+
 
 ##  Tech Stack & Tools
 
@@ -72,7 +70,7 @@ const theo = {
 
 
 
-##  Let's Connect!
+
 
 <div align="center">
 
