@@ -16,7 +16,7 @@
 ```javascript
 const theo = {
     location: "Philippines 🇵🇭",
-    currentFocus: "Full Stack Development",
+    currentFocus: "Embedded Software Development/Full Stack Development",
     currentlyLearning: [
         "Docker Mastery: with Kubernetes +Swarm from a Docker Captain",
         "Mastering Microcontroller and Embedded Driver Development",
