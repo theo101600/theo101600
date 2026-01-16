@@ -18,9 +18,9 @@ const theo = {
     location: "Philippines 🇵🇭",
     currentFocus: "Full Stack Development",
     currentlyLearning: [
-        "The Ultimate React Course 2025",
-        "Next.js & Advanced React Patterns",
-        "Redux & State Management"
+        "Docker Mastery: with Kubernetes +Swarm from a Docker Captain",
+        "Mastering Microcontroller and Embedded Driver Development",
+        "AWS cloud practitioner"
     ],
 
 };
